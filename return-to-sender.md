@@ -1,8 +1,7 @@
 Business Reply Mail
 ===================
 
-* [200](#200-Commercial-Letters-Flats-and-Parcels-Design-Standards)
-
+* [200](##200-commercial-letters-flats-and-parcels-design-standards)
 
 # [Intro](http://pe.usps.com/MailpieceDesign/Index?ViewName=BRMIntroduction)
 
@@ -33,16 +32,11 @@ _2.5.1 Description_
 [4.0 Parcel Return Service](http://pe.usps.com/text/dmm300/505.htm#ep1226061)
 
 _4.1.2 Parcel Return Service Prices_
-- a
-> Parcel Return Service-Nonmachinable Prices: Parcels exceeding the maximum machinable dimensions in 201.7.5 or are considered a nonmachinable parcel under 201.7.7 are subject to nonmachinable prices.
+> a. Parcel Return Service-Nonmachinable Prices: Parcels exceeding the maximum machinable dimensions in 201.7.5 or are considered a nonmachinable parcel under 201.7.7 are subject to nonmachinable prices.
 
 
 
 
 # [200 Commercial Letters, Flats, and Parcels Design Standards](http://pe.usps.com/text/dmm300/201.htm#ep1097315)
 
-
-https://www.uspsoig.gov/blog/business-reply-mail
-https://ribbs.usps.gov/index.cfm?page=intellmailmailpieces
-http://www.api-marketing.com/our-services/mailing-fulfillment/mailing-resources/mailing-terminology/
 

@@ -1,6 +1,10 @@
 Business Reply Mail
 ===================
-[Intro](http://pe.usps.com/MailpieceDesign/Index?ViewName=BRMIntroduction)
+
+* [200](#200)
+
+
+# [Intro](http://pe.usps.com/MailpieceDesign/Index?ViewName=BRMIntroduction)
 
 [BRM Standard: Domestic Mail Manual > 500 Additional Services > 505Return Services](http://pe.usps.com/text/dmm300/505.htm#1224365)
 
@@ -26,7 +30,16 @@ _2.5.1 Description_
 [3.6 Heavy Letter Mail (over 3 ounces)](http://pe.usps.com/text/dmm300/201.htm#ep1083459)
 > [4-3-17] Heavy letter mail (letter-size pieces over 3 ounces) must be prepared in a sealed envelope, must not contain stiff enclosures, and must have an Intelligent Mail barcode with a routing code in the address block (see [202.5.0](http://pe.usps.com/text/dmm300/202.htm#ep1047220)) to be eligible for automation prices.
 
+[4.0 Parcel Return Service](http://pe.usps.com/text/dmm300/505.htm#ep1226061)
 
+_4.1.2 Parcel Return Service Prices_
+- a
+> Parcel Return Service-Nonmachinable Prices: Parcels exceeding the maximum machinable dimensions in 201.7.5 or are considered a nonmachinable parcel under 201.7.7 are subject to nonmachinable prices.
+
+
+
+
+# (#200)[200 Commercial Letters, Flats, and Parcels Design Standards](http://pe.usps.com/text/dmm300/201.htm#ep1097315)
 
 
 

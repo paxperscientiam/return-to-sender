@@ -1,7 +1,7 @@
 Business Reply Mail
 ===================
 
-* [200](#200)
+* [200](#200-Commercial-Letters-Flats-and-Parcels-Design-Standards)
 
 
 # [Intro](http://pe.usps.com/MailpieceDesign/Index?ViewName=BRMIntroduction)
@@ -40,7 +40,6 @@ _4.1.2 Parcel Return Service Prices_
 
 
 # [200 Commercial Letters, Flats, and Parcels Design Standards](http://pe.usps.com/text/dmm300/201.htm#ep1097315)
-## (#200)
 
 
 https://www.uspsoig.gov/blog/business-reply-mail
